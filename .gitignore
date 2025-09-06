@@ -1,0 +1,8 @@
+bash
+
+
+node_modules/
+!README.md
+*.log
+dist/
+.env
