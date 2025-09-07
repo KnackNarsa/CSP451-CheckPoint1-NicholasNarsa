@@ -110,8 +110,4 @@ I will not be accepting contributions at this time.
 
 ### License Information
 
-### Contributing Guidelines
-
-This repository is for a school assignment.
-I will not be accepting contribution at this time.
-
+This repository is for a school assignment and is not licensed for public use.
